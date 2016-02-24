@@ -1,0 +1,7 @@
+{
+  "name": "judgebot",
+  "version": "0.0.1",
+  "dependencies": {
+    "botkit": "0.0.7"
+  }
+}
